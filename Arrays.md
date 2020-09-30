@@ -128,6 +128,8 @@
     Изход:<br>
     1 4 7 10 3 6 9 2 5 8
 
+#
+
 Задачи за самостоятелна работа:
 - [Покемон](http://www.math.bas.bg/infos/files/2010-06-12-E1.pdf "зад. 17 ")
 - [Фигура](http://www.math.bas.bg/infos/files/2009-06-14-tasks-E3.pdf "зад 18.")
