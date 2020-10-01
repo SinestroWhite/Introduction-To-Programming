@@ -20,6 +20,8 @@
 
 4. **Задача** Да се напише функция, която приема число **n** и връща **-n** - 1 .
 
+<br>
+
 Задачи за самостоятелна работа:
 - [Binary Digits](https://drive.google.com/file/d/0B0DgZGtV0C9HUHkwZmNsN3VjNDg/view?usp=sharing)
 - [Formula Bit 1](https://drive.google.com/file/d/0B0DgZGtV0C9HQlRKZEtlUzlWdUk/view?usp=sharing)
