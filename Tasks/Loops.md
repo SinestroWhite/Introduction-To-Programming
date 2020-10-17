@@ -179,14 +179,14 @@
     Вход:<br>
     351<br>
     Изход:<br>
-	3
-	4
-	153
-	15
-	153
-	Not a pallindrome
-	1 - 1
-	3 - 1
+	3 <br>
+	4 <br>
+	153 <br>
+	15 <br>
+	153 <br>
+	Not a pallindrome <br>
+	1 - 1 <br>
+	3 - 1 <br>
 	5 - 1
 <br>
 
