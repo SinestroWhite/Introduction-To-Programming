@@ -1,15 +1,5 @@
 # Условен оператор if, switch и тернарен оператор ?:
 
-## Теоретични основи
-
- - [Decision Making in C / C++](https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/)
- - [Decision Making in C / C++](https://www.geeksforgeeks.org/switch-statement-cc/)
- - [Conditional or Ternary Operator (?:) in C/C++](https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c-c/)
- - [CONDITIONS and BRANCHES in C++](https://www.youtube.com/watch?v=qEgCT87KOfc)
- - [Ternary Operators in C++](https://www.youtube.com/watch?v=ezqsL-st8qg)
-
-## Задачи
-
 1. **Задача** Напишете програма, която приема две числа от конзолата и изписва по-голямото от тях.
 
 	**Пример**<br>
