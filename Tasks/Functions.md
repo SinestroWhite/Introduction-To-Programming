@@ -1,15 +1,5 @@
 # Функции
 
-## Теоретични основи
-
-- [Подпрограми](https://docs.google.com/document/d/15uhdWUoXkIVBCCKG-4ZfXNqzUyF561zjnxjUL7ORdrc/edit)
-- [Functions in C/C++ (Video)](https://www.youtube.com/watch?v=V9zuox47zr0)
-- [Functions in C/C++](https://www.geeksforgeeks.org/functions-in-c/)
--  [Вградени функции в C++. Библиотеки](https://www.youtube.com/watch?v=9RJTQmK0YPI)
--  [Понятието “чиста функция”. Параметри по подразбиране за функции.](https://www.geeksforgeeks.org/default-arguments-c/)
-
-## Задачи
-
 1. **Задача** Да се състави програма, която по зададен интервал [**K**,**L**] (**K** и **L** цели положителни числа не по-големи от 100000) отпечатва всички числа в интервала [**K**,**L**], които имат две съседни еднакви цифри в записа си.
 
 	**Пример**<br>
