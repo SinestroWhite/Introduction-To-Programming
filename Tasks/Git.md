@@ -1,14 +1,5 @@
 ﻿# Git и GitHub
 
-## Теоретични основи
-
-- [What is Git?](https://www.youtube.com/watch?v=E8hhHKlq6rk)
-- [Какво е Git?](https://git-scm.com/book/bg/v2/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%9A%D0%B0%D0%BA%D0%B2%D0%BE-%D0%B5-Git)
-- [Learn Git](https://www.youtube.com/watch?v=USjZcfj8yxE)
-- [Git for Dummies](https://dev.to/doylecodes/git-for-dummies-1a2i)
-
-## Задачи
-
 1. **Задача**  Създайте си Github акаунт (ако още нямате).
 
 <br>
