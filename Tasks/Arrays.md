@@ -1,13 +1,5 @@
 # Едномерни масиви
 
-## Теоретични основи
-
-- [Масиви](https://docs.google.com/document/d/1T-DMzIMcXlWYKaRa_Vvu-OuI70weP0CqshRb9Y6fetY/edit)
-- [Arrays in C++](https://www.youtube.com/watch?v=ENDaJi08jCU&t=1s)
-- [Static Arrays in C++ (std::array)](https://www.youtube.com/watch?v=Hw42GkHPyvk)
-- [Arrays in C/C++](https://www.geeksforgeeks.org/arrays-in-c-cpp/) 
-- [Динамичен подход при решаване на задачи](https://www.geeksforgeeks.org/dynamic-programming/#concepts)
-
 ## Задачи
 
 1. **Задача** Да се състави програма, която въвежда оценките на един ученик и пресмята средния му успех. Първо да се въведе броят на оценките, а след това и самите оценки разделени с интервал. В масива може да има най-много 50 елемента.
