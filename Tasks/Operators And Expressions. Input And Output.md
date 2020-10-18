@@ -1,13 +1,5 @@
 # Операции и изрази. Вход и изход
 
-
-## Теоретични основи
-
- - [Операции в C/C++](https://www.geeksforgeeks.org/operators-c-c/)
- - [Стандартен вход и изход в C++](https://www.tutorialspoint.com/cplusplus/cpp_basic_input_output.htm)
-
-## Задачи
-
 1. **Задача** Да се въведат две числа - а и b. Да се изведе тяхната разлика.
 
 	**Пример**:<br>
