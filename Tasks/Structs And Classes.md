@@ -1,14 +1,5 @@
 # Структури и класове
 
-## Теоретични основи
-
-- [Classes](https://www.youtube.com/watch?v=2BP8NhxjrO0)
-- [Classes vs. Structs](https://www.youtube.com/watch?v=fLgTtaqqJp0)
-- [Структури](https://docs.google.com/document/d/18kOtvpchcw5K8uu5ly61uRCqnBOc51TXc0pa-t59Dvs/edit)
-- [Класове](https://uroci10.alle.bg/stlu/klasove/)
-
-## Задачи
-
 1. **Задача** Даден е списък на учениците от 10 клас, съдържащ име, година на раждане, адрес. Напишете програма, която:
 	- въвежда година и проверява дали в класа има ученик с такава рождена година;
 	- извежда имената и адресите на всички ученици, родени преди определена година.
