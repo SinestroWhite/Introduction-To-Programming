@@ -54,9 +54,9 @@
 <br>
 
 Задачи за самостоятелна работа:
-- [Подарък](http://www.math.bas.bg/infos/files/2011-11-27-E3.pdf)
+- [Подарък](http://www.math.bas.bg/infos/files/2011-11-27-E3.pdf) ([автоматично оценяване](https://arena.maycamp.com/practice/open_contest?contest_id=86))
 - [Щастлив номер](http://www.math.bas.bg/infos/files/2008-12-02-E3.pdf)
 - [Парола](http://www.math.bas.bg/infos/files/2016-12-17-E3.pdf)
-- [Торти](http://www.math.bas.bg/infos/files/2014-01-07-E2.pdf)
-- [Щастлив билет](http://www.math.bas.bg/infos/files/2012-01-05-E2.pdf)
-- [Климатик](http://www.math.bas.bg/infos/files/2014-01-07-E3.pdf)
+- [Торти](http://www.math.bas.bg/infos/files/2014-01-07-E2.pdf) ([автоматично оценяване](https://arena.maycamp.com/practice/open_contest?contest_id=113))
+- [Щастлив билет](http://www.math.bas.bg/infos/files/2012-01-05-E2.pdf) ([автоматично оценяване](https://arena.maycamp.com/practice/open_contest?contest_id=89))
+- [Климатик](http://www.math.bas.bg/infos/files/2014-01-07-E3.pdf) ([автоматично оценяване](https://arena.maycamp.com/practice/open_contest?contest_id=113))
