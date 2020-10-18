@@ -1,12 +1,5 @@
 # Вложени цикли
 
-## Теоретични основи
-
- - [Вложени цикли](https://programist.alle.bg/uroci/vlojeni-cikli/)
- - [Nested Loops](https://www.tutorialspoint.com/cplusplus/cpp_nested_loops.htm)
-
-## Задачи
-
 1. **Задача** Да се напише програма, която приема естествено число **n** и изписва стълба от 1 до **n**
 
 	**Пример**<br>
