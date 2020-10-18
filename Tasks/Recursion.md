@@ -96,8 +96,8 @@
 
 <br>
 
-Задачи за самостоятелна работа:
-- [Острови](http://www.math.bas.bg/infos/files/2010-01-28-taskB2.pdf)
+Задачи за самостоятелна работа: 
+- [Острови](http://www.math.bas.bg/infos/files/2010-01-28-taskB2.pdf) [Judge](https://arena.maycamp.com/practice/open_contest?contest_id=39)
 - [Таблица](http://www.math.bas.bg/infos/files/2015-04-27-D2.pdf)
 - [Метро](http://acm.timus.ru/problem.aspx?space=1&num=1119)
 - [Мрежа](https://arena.maycamp.com/practice/get_problem_description?contest_id=144&problem_id=993)
