@@ -93,7 +93,7 @@
     
 	**Пример**<br>
 	Вход: 1 5 3 5 5<br>
-	Изход: true, true, false, true
+	Изход: true, true, false, false
 
 <br>
 
