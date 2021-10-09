@@ -97,10 +97,18 @@
 
 <br>
 
-Задачи за самостоятелна работа: 
-- [Острови](http://www.math.bas.bg/infos/files/2010-01-28-taskB2.pdf) ([автоматично оценяване](https://arena.maycamp.com/practice/open_contest?contest_id=39))
-- [Таблица](http://www.math.bas.bg/infos/files/2015-04-27-D2.pdf)
-- [Метро](http://acm.timus.ru/problem.aspx?space=1&num=1119)
-- [Мрежа](https://arena.maycamp.com/practice/get_problem_description?contest_id=144&problem_id=993)
-- [Мостове](https://drive.google.com/file/d/0B0DgZGtV0C9HajUwNGlZTEpHeHc/view?usp=sharing)
+20. **Задача** Да се дефинира рекурсивна функция **void print_backwards(const char\* begin, const char\* end)** <br>
+Параметрите **begin** и **end** са указатели към елементи на буфер от символи, като **end** ≥ **begin**. Символен низ с начало **begin** и край **end** наричаме последователността от символи, започваща със символа, намиращ се на адрес **begin** и завършваща със символа на адрес **end** - 1, включително, дори и ако някой от тези символи е с код 0. <br>
+Дума в такъв символен низ наричаме всяка непразна подпоследователност от стандартни символи (с код>32), ограничена от двете страни или от някой от краищата на низа, или от специален символ (с код ≤ 32).Функцията **print_backwards** да извежда на стандартния изход всички думи в низа с начало **begin** и край **end** в ред, обратен на срещането им в низа, и разделени с точно един интервал. <br>
+*Пример*: <br>
+Вход: I\tneed a break!<br>
+Изход: break! a need I
+
+<br>
+Задачи за самостоятелна работа: <br>
+* [Острови](http://www.math.bas.bg/infos/files/2010-01-28-taskB2.pdf) <br>
+* [Таблица](http://www.math.bas.bg/infos/files/2015-04-27-D2.pdf) <br>
+* [Метро](http://acm.timus.ru/problem.aspx?space=1&num=1119) <br>
+* [Мрежа](https://arena.maycamp.com/practice/get_problem_description?contest_id=144&problem_id=993) <br>
+* [Мостове](https://drive.google.com/file/d/0B0DgZGtV0C9HajUwNGlZTEpHeHc/view?usp=sharing) <br>
  
