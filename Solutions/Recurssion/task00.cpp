@@ -21,7 +21,7 @@ bool is_possible(std::vector<int> vec, int remaining) {
 	std::vector<int> left_side = vec, right_side = vec;
 	left_side.erase(left_side.begin());
 	right_side.pop_back();
-	
+
 	remaining--;
 	return is_possible(left_side, remaining) || is_possible(right_side, remaining);
 }

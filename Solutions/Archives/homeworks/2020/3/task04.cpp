@@ -26,7 +26,7 @@ void free(trie * solution) {
 	for (int i = 0; i < letters; i++) {
 		if (solution -> children[i] != nullptr) {
 			free(solution -> children[i]);
-			delete solution -> children[i];			
+			delete solution -> children[i];
 		}
 	}
 }

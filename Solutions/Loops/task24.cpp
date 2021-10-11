@@ -5,7 +5,7 @@ int main() {
 	std::cin >> number;
 
 	int length = 1;
-	int temp_length = number;	
+	int temp_length = number;
 	while (temp_length / 10 > 0) {
 		temp_length /= 10;
 		length++;
@@ -24,7 +24,7 @@ int main() {
 	int ten_by_length = 1;
 	for (int i = 0; i < length - 1; i++) {
 		ten_by_length *= 10;
-	}										
+	}
 	swapped_digits *= ten_by_length;
 	swapped_digits += number % ten_by_length - last_digit + first_digit;
 	std::cout << swapped_digits << "\n";

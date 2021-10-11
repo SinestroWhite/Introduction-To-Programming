@@ -20,7 +20,7 @@ void sort_array(const int N, int arr[]) {
 int main() {
 	const int size = 7;
 	int arr[size] = {5, 54, 123, 6, 12, 6, 8};
-	
+
 	sort_array(size, arr);
 
 	for (int i = 0; i < size; i++) {

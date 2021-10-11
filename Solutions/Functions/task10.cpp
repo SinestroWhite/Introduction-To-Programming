@@ -9,7 +9,7 @@ double average(const int N, ...) {
 
 	va_list args;
 	double sum = 0;
-	
+
 	va_start(args, N);
 
 	for (int i = 0; i < N; i++) {

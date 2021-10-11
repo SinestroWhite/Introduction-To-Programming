@@ -5,7 +5,7 @@ int askUser(const int from, const int to) {
 	do {
 		std::cin >> tmp;
 	} while (tmp < from || tmp > to);
-	
+
 	return tmp;
 }
 
@@ -14,6 +14,6 @@ int main() {
 	int a = askUser(MIN, MAX);
 	int b = askUser(MIN, MAX);
 	int c = askUser(MIN, MAX);
-	
+
 	std::cout << a << ' ' << b << ' ' << c << '\n';
 }
