@@ -4,3 +4,4 @@
 
 ---
 
+[Задачи - пойнтъри и референции](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Dynamic%20Memory.md)
