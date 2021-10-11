@@ -31,7 +31,7 @@ int main() {
 			case 8: std::cout << "osemstotin "; break;
 			case 9: std::cout << "devetstotin "; break;
 		}
- 
+
 		if (input == 0) {
 			std::cout << "\n";
 			return 0;

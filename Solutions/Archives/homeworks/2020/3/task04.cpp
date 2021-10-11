@@ -19,7 +19,7 @@ void put(trie * solution, const std::string & input, int & counter) {
 
 	std::string tmp = input;
 	tmp.erase(tmp.begin());
-	put(solution -> children[first_letter_id], tmp, counter); 
+	put(solution -> children[first_letter_id], tmp, counter);
 }
 
 void free(trie * solution) {

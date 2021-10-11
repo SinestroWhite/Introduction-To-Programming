@@ -167,7 +167,7 @@
 
 <br>
 
-Задачи за извеждане на фигури: 
+Задачи за извеждане на фигури:
 - [Теоретични основи](https://drive.google.com/file/d/0B0DgZGtV0C9HOVZ3MFdoRWQzVFk/view)
 - [Ромб](http://www.math.bas.bg/infos/files/2010-03-06-E1.pdf)
 - [ФИГУРИ](http://www.math.bas.bg/infos/files/2012-06-10-E2.pdf)

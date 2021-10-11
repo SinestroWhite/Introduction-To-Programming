@@ -46,7 +46,7 @@ int main() {
 	}
 	std::cout << reverse_digits << "\n";
 
-	std::cout << "The number is " << (number == reverse_digits ? "" : "not ") << "a palindrome\n"; 
+	std::cout << "The number is " << (number == reverse_digits ? "" : "not ") << "a palindrome\n";
 
 	int zero = 0, one = 0, two = 0, three = 0, four = 0, five = 0, six = 0, seven = 0, eight = 0, nine = 0;
 	for (int i = 0; i < length; i++) {

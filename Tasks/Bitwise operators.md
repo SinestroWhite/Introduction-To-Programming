@@ -20,7 +20,7 @@
 
    **Пример** <br>
    при **key** = 51223: <br>
-   
+
    Enter **value**: 15 <br>
    Your **crypt** is: 51224 <br>
    Enter **key** to decrypt: 51223 <br>
@@ -39,4 +39,4 @@
 - [Odd Numbers](http://drive.google.com/open?id=0B0DgZGtV0C9HMFRsOS16bXlKS2s)
 - [Carpets](http://drive.google.com/open?id=0B0DgZGtV0C9HQnlURDdMRjRpLWs)
 - [Pillars](http://drive.google.com/open?id=0B0DgZGtV0C9HUkZwVlVMaE9qWWs)
- 
+

@@ -16,7 +16,7 @@ int main() {
 		symmetric = END - distance;
 	} else {
 		distance = END - input;
-		symmetric = BEG + distance; 
+		symmetric = BEG + distance;
 	}
 	std::cout << symmetric;
 

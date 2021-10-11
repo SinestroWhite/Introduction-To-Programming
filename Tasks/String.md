@@ -66,4 +66,4 @@
 
 Задачи за самостоятелна работа:
 - [Шоколад](http://www.math.bas.bg/infos/files/2008-12-02-D3.pdf)
-- [Думи](http://www.math.bas.bg/infos/files/2011-05-08-E4.pdf) 
+- [Думи](http://www.math.bas.bg/infos/files/2011-05-08-E4.pdf)
