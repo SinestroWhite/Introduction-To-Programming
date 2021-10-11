@@ -30,14 +30,4 @@
 
 [Архив](Tasks/Archives)
 
-### Допълнителни платформи със задачи
-
-[https://www.hackerrank.com/domains/cpp](https://www.hackerrank.com/domains/cpp)
-
-[https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
-
-[http://www.math.bas.bg/infos/comp.html](http://www.math.bas.bg/infos/comp.html)
-
-[https://www.codewars.com/](https://www.codewars.com/)
-
-[Задачи на информатика](https://drive.google.com/file/d/1GJnlIAIhmRKobb9D2oX20OrcNxTIePG_/view?usp=sharing)
+[Допълнителни материали](ContentIndex/Bonus.md)
