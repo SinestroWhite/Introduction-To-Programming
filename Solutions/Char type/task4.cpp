@@ -9,7 +9,7 @@ int main() {
 	distance = (input <= MID ? input - BEG : END - input);
 	symmetric = (input <= MID ? END - distance : BEG + distance);
 	std::cout << symmetric;
-	
+
 	// Solution 2
 	if (input <= MID) {
 		distance = input - BEG;

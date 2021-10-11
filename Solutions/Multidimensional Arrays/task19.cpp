@@ -22,7 +22,7 @@ int main() {
 			std::cout << arr[i][col_range - 1] << " ";
 		}
 		col_range--;
-	
+
 		if (cur_row < row_range) {
 			for (i = col_range - 1; i >= cur_col; i--) {
 				std::cout << arr[row_range - 1][i] << " ";

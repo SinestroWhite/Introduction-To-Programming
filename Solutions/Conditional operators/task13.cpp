@@ -16,7 +16,7 @@ int main() {
 		return 0;
 	}
 
-	
+
 	if (input > 99) {
 		const int hundreds = input / 100;
 		input %= 100;
@@ -41,7 +41,7 @@ int main() {
 			std::cout << "i ";
 		}
 	}
-	
+
 	if (input > 19) {
 		const int tens = input / 10;
 		switch (tens) {
@@ -87,7 +87,7 @@ int main() {
 		case 18: std::cout << "osemnaiset"; break;
 		case 19: std::cout << "devetnaiset"; break;
 	}
-	
+
 	std::cout << "\n";
 	return 0;
 }

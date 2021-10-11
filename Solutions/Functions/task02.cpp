@@ -12,6 +12,6 @@ int main() {
 	int input;
 	std::cin >> input;
 	std::cout << isEven(input) << "\n";
-	
+
 	return 0;
 }
