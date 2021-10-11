@@ -28,9 +28,13 @@
 
 [Седмица 15](ContentIndex/Week15.md)
 
+[Архив](Tasks/Archives)
+
 ### Допълнителни платформи със задачи
 
 [https://www.hackerrank.com/domains/cpp](https://www.hackerrank.com/domains/cpp)
+
+[https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
 
 [http://www.math.bas.bg/infos/comp.html](http://www.math.bas.bg/infos/comp.html)
 
