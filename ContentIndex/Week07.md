@@ -1,7 +1,6 @@
 ### Седмица 7
 
-[Многомерни масиви  
-](https://drive.google.com/file/d/1KAkYQEMB7zz0G2V9d7v6JBJX4W7WEOm0/view?usp=sharing)
+[Многомерни масиви](https://drive.google.com/file/d/1KAkYQEMB7zz0G2V9d7v6JBJX4W7WEOm0/view?usp=sharing)
 
 [Викторина - многомерни масиви](https://forms.gle/psZSAHsuHhCtyXba6)
 
