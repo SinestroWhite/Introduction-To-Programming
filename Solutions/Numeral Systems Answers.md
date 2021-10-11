@@ -6,7 +6,7 @@
 
  1. [Бройни системи](https://ucha.se/watch/9995/broyni-sistemi)
  2. [Превръщане на числа от в различни бройни системи.](https://ucha.se/watch/9923/prevrashtane-na-chisla-v-razlichni-broyni-sistemi)
- 
+
 Таблица с основните превръщания
 
 ![Таблица](https://bekimdauti.files.wordpress.com/2019/10/hexadecimal-system.jpg)

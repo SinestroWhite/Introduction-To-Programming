@@ -6,7 +6,7 @@
 
 ---
 
-[Задачи - функции](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Functions.md)  
+[Задачи - функции](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Functions.md)
 
 ---
 

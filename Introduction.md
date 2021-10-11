@@ -1,7 +1,7 @@
 ﻿# Въведение
 
 ## Какво е С++. Какво е компилатор. Как работи.
-    
+
 
  - [How C++ Works](https://www.youtube.com/watch?v=SfGuIVzE_Os)
  - [How the C++ Compiler Works](https://www.youtube.com/watch?v=3tIqpEmWMLI)
