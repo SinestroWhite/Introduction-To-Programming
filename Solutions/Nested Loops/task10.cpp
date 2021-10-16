@@ -1,23 +1,23 @@
 #include <iostream>
 
-void printTimesIfCorrect(unsigned short hoursTensStart,
-                         unsigned short hoursOnesStart,
-                         unsigned short minutesTensStart,
-                         unsigned short minutesOnesStart,
-                         unsigned short secondsTensStart,
-                         unsigned short secondsOnesStart,
-                         // unsigned short hoursTensFinal, // is a *
-                         unsigned short hoursOnesFinal,
-                         unsigned short minutesTensFinal,
-                         // unsigned short minutesOnesFinal, // is a *
-                         // unsigned short secondsTensFinal, // is a *
-                         unsigned short secondsOnesFinal,
-                         unsigned short hoursDelta,
-                         unsigned short minutesDelta,
-                         unsigned short secondsDelta) {
-    unsigned short hoursTemp   = hoursTensStart * 10 + hoursOnesStart;
-    unsigned short minutesTemp = minutesTensStart * 10 + minutesOnesStart;
-    unsigned short secondsTemp = secondsTensStart * 10 + secondsOnesStart;
+void printTimesIfCorrect(int hoursTensStart,
+                         int hoursOnesStart,
+                         int minutesTensStart,
+                         int minutesOnesStart,
+                         int secondsTensStart,
+                         int secondsOnesStart,
+                         // int hoursTensFinal, // is a *
+                         int hoursOnesFinal,
+                         int minutesTensFinal,
+                         // int minutesOnesFinal, // is a *
+                         // int secondsTensFinal, // is a *
+                         int secondsOnesFinal,
+                         int hoursDelta,
+                         int minutesDelta,
+                         int secondsDelta) {
+    int hoursTemp   = hoursTensStart * 10 + hoursOnesStart;
+    int minutesTemp = minutesTensStart * 10 + minutesOnesStart;
+    int secondsTemp = secondsTensStart * 10 + secondsOnesStart;
 
     secondsTemp += secondsDelta;
     if (secondsTemp >= 60) {
@@ -41,7 +41,7 @@ void printTimesIfCorrect(unsigned short hoursTensStart,
          secondsOnesMatch = secondsTemp % 10 == secondsOnesFinal;
 
     if (hoursOnesMatch && minutesTensMatch && secondsOnesMatch) {
-        unsigned short hoursTensFinal   = hoursTemp / 10,
+        int hoursTensFinal   = hoursTemp / 10,
                        minutesOnesFinal = minutesTemp % 10,
                        secondsTensFinal = secondsTemp / 10;
 
@@ -54,15 +54,15 @@ void printTimesIfCorrect(unsigned short hoursTensStart,
     }
 }
 
-void solve(unsigned short hoursOnesStart,
-           unsigned short minutesTensStart,
-           unsigned short secondsOnesStart,
-           unsigned short hoursOnesFinal,
-           unsigned short minutesTensFinal,
-           unsigned short secondsOnesFinal,
-           unsigned short hoursDelta,
-           unsigned short minutesDelta,
-           unsigned short secondsDelta) {
+void solve(int hoursOnesStart,
+           int minutesTensStart,
+           int secondsOnesStart,
+           int hoursOnesFinal,
+           int minutesTensFinal,
+           int secondsOnesFinal,
+           int hoursDelta,
+           int minutesDelta,
+           int secondsDelta) {
     for (size_t hoursTensStart = 0; hoursTensStart <= 1; ++hoursTensStart) {
         for (size_t minutesOnesStart = 0; minutesOnesStart <= 9; ++minutesOnesStart) {
             for (size_t secondsTensStart = 0; secondsTensStart <= 5; secondsTensStart++) {
@@ -80,9 +80,9 @@ int main() {
 
     // по-нататък ще учим как се вкарват сложни данни, затова сега ще ги hardcode-нем в main-а
 
-    unsigned short hoursOnesStart = 2, minutesTensStart = 5, secondsOnesStart = 6;
-    unsigned short hoursOnesFinal = 1, minutesTensFinal = 0, secondsOnesFinal = 2;
-    unsigned short hoursDelta = 10,    minutesDelta = 19,    secondsDelta = 26;
+    int hoursOnesStart = 2, minutesTensStart = 5, secondsOnesStart = 6;
+    int hoursOnesFinal = 1, minutesTensFinal = 0, secondsOnesFinal = 2;
+    int hoursDelta = 10,    minutesDelta = 19,    secondsDelta = 26;
 
     solve(hoursOnesStart, minutesTensStart, secondsOnesStart,
           hoursOnesFinal, minutesTensFinal, secondsOnesFinal,
