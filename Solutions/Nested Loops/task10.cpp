@@ -78,6 +78,8 @@ void solve(unsigned short hoursOnesStart,
 
 int main() {
 
+    // по-нататък ще учим как се вкарват сложни данни, затова сега ще ги hardcode-нем в main-а
+
     unsigned short hoursOnesStart = 2, minutesTensStart = 5, secondsOnesStart = 6;
     unsigned short hoursOnesFinal = 1, minutesTensFinal = 0, secondsOnesFinal = 2;
     unsigned short hoursDelta = 10,    minutesDelta = 19,    secondsDelta = 26;
