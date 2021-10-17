@@ -1,13 +1,23 @@
 ### Седмица 8
 
-[Рекурсия](https://drive.google.com/file/d/1ltVRg7LSUHess_2QAXH-lgSj1jbFOelP/view?usp=sharing)
+[Символни низове](https://drive.google.com/file/d/1D2rJlcVp4ikCB5p415od7SRdT9X-5KmM/view?usp=sharing)
 
-[Викторина - рекурсия](https://forms.gle/X7KNKWmHSkhvzXFm6)
+[Викторина - символни низове](https://forms.gle/HAHG2f5uPhk2BTZ8A)
+
+[std::string](https://drive.google.com/file/d/1EcTh7k-ldd3d9kXWoitstyYgC-ydGp5A/view?usp=sharing)
+
+[Текстови файлове](https://drive.google.com/file/d/1Y2Npnt4XimyM_niTO3HVp11jndMDQJps/view?usp=sharing)
+
+[Викторина - текстови файлове](https://forms.gle/y7KB4PMRiD2nXAeh7)
 
 ---
 
-[Задачи - рекурсия](../tasks/recursion.md)
+[Задачи - string](../tasks/string.md)
+
+[Задачи - текстови файлове](../tasks/files.md)
 
 ---
 
-[Бонус - рекурсия](https://docs.google.com/document/d/1JR26A43wsQ9TmDd2Hj2o05Jg2uH7FLCr7YuWln6TaOc/edit?usp=sharing)
+[Бонус - string](https://docs.google.com/document/d/1EBBYMcotYCuzotbg5WsG1KkiLWwMHemzLz3Vjc62Mwo/edit?usp=sharing)
+
+[Бонус - текстови файлове](https://docs.google.com/document/d/1dCgQHtpUdGFyDETHVblX7UiWPBaVEsQb36K0nTtXAa8/edit?usp=sharing)

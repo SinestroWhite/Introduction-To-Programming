@@ -1,13 +1,23 @@
 ### Седмица 13
 
-[Структури](https://drive.google.com/file/d/1DlKFWLFt5QEAtjWNlQm0bKDGirbsDHHb/view?usp=sharing)
+[git init](https://docs.google.com/file/d/1VPI8zGAx1KGKc64E-2jbVy7zu2kUngEk/edit)
 
-[Викторина - структури](https://forms.gle/dZofZh5spiofwmGh8)
+[git commit](https://docs.google.com/file/d/1IV4dUoWC1v6dPjuO281ixOsufrB7FNvR/edit?rtpof=true&sd=true)
+
+[git branch](https://docs.google.com/file/d/146FR59wUfoSDk3g1jYaudmDa1gTlFGB2/edit?rtpof=true&sd=true)
+
+[git merge](https://docs.google.com/file/d/1bH2Nk3lYC6PXFj3OqjdKZ1zXsSosRUw9/edit?rtpof=true&sd=true)
+
+[git remote](https://docs.google.com/file/d/16dXPpUVvm5fJWse8y0wRCYuH8Hwy723-/edit?rtpof=true&sd=true)
+
+[GitHub](https://drive.google.com/file/d/1bjjTl6ewUhdx5a8aYOrl0-F2cPqGLnot/view?usp=sharing)
 
 ---
 
-[Задачи - структури](../tasks/structs_and_classes.md)
+[Задачи - Git](../tasks/git.md)
 
 ---
 
-[Бонус - структури](https://docs.google.com/document/d/1Lf-QFbrbl8C0J9FRAe2MI6BLKaCygI3XQNmToTVOITs/edit?usp=sharing)
+[Python](https://drive.google.com/file/d/1xeqEPkfO3gZlwrMXZdUGbEPjMvsOA7zT/view?usp=sharing)
+
+[Викторина - python](https://forms.gle/NfmVw87xL7hC6jMW7)

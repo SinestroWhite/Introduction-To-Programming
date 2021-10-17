@@ -2,7 +2,7 @@
 
 [Анкета преди започването на курса](https://docs.google.com/forms/d/e/1FAIpQLSfu5H7CZ3T6n2kBItLo7w-fgOd9gJryMnJfB5ABVk8n_SMQPw/viewform?usp=sf_link)
 
-[Как да учим по УП](https://docs.google.com/presentation/d/1goJkKsw9bjda1ZgzWGmHnVT4cFuhSMKd/edit?usp=sharing&ouid=115687390792091108365&rtpof=true&sd=true)
+[Как да учим по УП](https://docs.google.com/file/d/1goJkKsw9bjda1ZgzWGmHnVT4cFuhSMKd/edit#slide=id.p1)
 
 [Въведение в С++](https://drive.google.com/file/d/1j6c08FDdCZhY7jBNurkJ91n-zNwCAoJt/view?usp=sharing)
 

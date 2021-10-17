@@ -1,15 +1,13 @@
 ### Седмица 14
 
-[GitHub](https://drive.google.com/file/d/1bjjTl6ewUhdx5a8aYOrl0-F2cPqGLnot/view?usp=sharing)
+[Рекурсия](https://drive.google.com/file/d/1ltVRg7LSUHess_2QAXH-lgSj1jbFOelP/view?usp=sharing)
+
+[Викторина - рекурсия](https://forms.gle/X7KNKWmHSkhvzXFm6)
 
 ---
 
-[Git](https://drive.google.com/drive/folders/1fFhICQFhFuzO7lONqANfY0zy5SLJBLsQ?usp=sharing)
-
-[Задачи - Git](../tasks/git.md)
+[Задачи - рекурсия](../tasks/recursion.md)
 
 ---
 
-[Python](https://drive.google.com/file/d/1xeqEPkfO3gZlwrMXZdUGbEPjMvsOA7zT/view?usp=sharing)
-
-[Викторина - python](https://forms.gle/NfmVw87xL7hC6jMW7)
+[Бонус - рекурсия](https://docs.google.com/document/d/1JR26A43wsQ9TmDd2Hj2o05Jg2uH7FLCr7YuWln6TaOc/edit?usp=sharing)
