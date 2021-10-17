@@ -4,7 +4,7 @@
 
 ---
 
-[Задачи - вложени цикли](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Nested%20Loops.md)
+[Задачи - вложени цикли](../tasks/nested_loops.md)
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-[Задачи - рекурсия](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Recursion.md)
+[Задачи - рекурсия](../tasks/recursion.md)
 
 ---
 

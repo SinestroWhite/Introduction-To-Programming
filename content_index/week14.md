@@ -6,7 +6,7 @@
 
 [Git](https://drive.google.com/drive/folders/1fFhICQFhFuzO7lONqANfY0zy5SLJBLsQ?usp=sharing)
 
-[Задачи - Git](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Git.md)
+[Задачи - Git](../tasks/git.md)
 
 ---
 

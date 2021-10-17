@@ -12,9 +12,9 @@
 
 ---
 
-[Задачи - string](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/String.md)
+[Задачи - string](../tasks/string.md)
 
-[Задачи - текстови файлове](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Files.md)
+[Задачи - текстови файлове](../tasks/files.md)
 
 ---
 

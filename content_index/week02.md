@@ -6,9 +6,9 @@
 
 ---
 
-[Задачи - оператори](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Basic%20Operators.md)
+[Задачи - оператори](../tasks/basic_operators.md)
 
-[Задачи - побитови операции](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Bitwise%20operators.md)
+[Задачи - побитови операции](../tasks/bitwise_operators.md)
 
 ---
 

@@ -16,18 +16,18 @@
 
 ---
 
-[Задачи - тип char](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Char%20type.md)
+[Задачи - тип char](../tasks/char_type.md)
 
 ---
 
 [Езици за програмиране](https://drive.google.com/file/d/1-cHs9o5upXup-wSb4vBV82rc6fa4LXSS/view?usp=sharing)
 
-[Бонус материали - Въведение в С++](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Introduction.md)
+[Бонус материали - Въведение в С++](../introduction.md)
 
 [Бонус материали - Типове данни](https://docs.google.com/document/d/14ZF1BCSihAubZdBHqb1-iJ8fS8NjtHnADgSxAWF2Nfc/edit?usp=sharing)
 
 [Бройни системи](https://drive.google.com/file/d/1uB-t8U2VO51UbURDE-I8XPzmkmK4sOPp/view?usp=sharing)
 
-[Задачи - бройни системи](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Numeral%20Systems.md)
+[Задачи - бройни системи](../tasks/numeral_systems.md)
 
-[Решения - бройни системи](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Solutions/Numeral%20Systems%20Answers.md)
+[Решения - бройни системи](../solutions/numeral_systems_answers.md)
