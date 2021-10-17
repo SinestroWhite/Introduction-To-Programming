@@ -1,13 +1,15 @@
 ### Седмица 13
 
-[Структури](https://drive.google.com/file/d/1DlKFWLFt5QEAtjWNlQm0bKDGirbsDHHb/view?usp=sharing)
-
-[Викторина - структури](https://forms.gle/dZofZh5spiofwmGh8)
+[GitHub](https://drive.google.com/file/d/1bjjTl6ewUhdx5a8aYOrl0-F2cPqGLnot/view?usp=sharing)
 
 ---
 
-[Задачи - структури](../tasks/structs_and_classes.md)
+[Git](https://drive.google.com/drive/folders/1fFhICQFhFuzO7lONqANfY0zy5SLJBLsQ?usp=sharing)
+
+[Задачи - Git](../tasks/git.md)
 
 ---
 
-[Бонус - структури](https://docs.google.com/document/d/1Lf-QFbrbl8C0J9FRAe2MI6BLKaCygI3XQNmToTVOITs/edit?usp=sharing)
+[Python](https://drive.google.com/file/d/1xeqEPkfO3gZlwrMXZdUGbEPjMvsOA7zT/view?usp=sharing)
+
+[Викторина - python](https://forms.gle/NfmVw87xL7hC6jMW7)
