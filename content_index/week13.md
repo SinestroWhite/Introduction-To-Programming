@@ -1,6 +1,6 @@
 ### Седмица 13
 
-[Въведение в Git](https://docs.google.com/file/d/1VPI8zGAx1KGKc64E-2jbVy7zu2kUngEk/edit)
+[git init](https://docs.google.com/file/d/1VPI8zGAx1KGKc64E-2jbVy7zu2kUngEk/edit)
 
 [git commit](https://docs.google.com/file/d/1IV4dUoWC1v6dPjuO281ixOsufrB7FNvR/edit?rtpof=true&sd=true)
 
