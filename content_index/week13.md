@@ -6,7 +6,7 @@
 
 ---
 
-[Задачи - структури](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Structs%20And%20Classes.md)
+[Задачи - структури](../tasks/structs_and_classes.md)
 
 ---
 

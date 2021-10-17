@@ -10,9 +10,9 @@
 
 ---
 
-[Задачи - масиви](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Arrays.md)
+[Задачи - масиви](../tasks/arrays.md)
 
-[Задачи - вектор](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Vector.md)
+[Задачи - вектор](../tasks/vector.md)
 
 ---
 

@@ -10,13 +10,13 @@
 
 ---
 
-[Задачи - булеви изрази](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Boolean%20expressions.md)
+[Задачи - булеви изрази](../tasks/boolean_expressions.md)
 
-[Решения - булеви изрази](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Solutions/Boolean%20expressions%20Answers.md)
+[Решения - булеви изрази](../solutions/boolean_expressions_answers.md)
 
-[Задачи - условни оператори](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Conditional%20operators.md)
+[Задачи - условни оператори](../tasks/conditional_operators.md)
 
-[Задачи - цикли](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Loops.md)
+[Задачи - цикли](../tasks/loops.md)
 
 ---
 

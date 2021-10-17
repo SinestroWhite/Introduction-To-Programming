@@ -8,4 +8,4 @@
 
 ---
 
-[Задачи - пойнтъри и референции](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Pointers%20And%20References.md)
+[Задачи - пойнтъри и референции](../tasks/pointers_and_references.md)

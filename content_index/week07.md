@@ -6,7 +6,7 @@
 
 ---
 
-[Задачи - многомерни масиви](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Multidimentional%20Arrays.md)
+[Задачи - многомерни масиви](../tasks/multidimentional_arrays.md)
 
 ---
 
