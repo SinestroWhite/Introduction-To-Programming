@@ -14,12 +14,12 @@
 
 Задачи
 ------
-[Бройни системи](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Numeral%20Systems.md)<br>
+[Бройни системи](../tasks/numeral_systems.md)<br>
 
 
 Решения
 -------
-[Бройни системи](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Solutions/Numeral%20Systems%20Answers.md)<br>
+[Бройни системи](../solutions/numeral_systems_answers.md)<br>
 
 
 Бонус
