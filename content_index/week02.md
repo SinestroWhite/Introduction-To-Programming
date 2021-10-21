@@ -19,4 +19,7 @@
 Бонус
 -----
 [Още за тип char](https://programist.alle.bg/uroci/urok-char/)<br>
-[Бонус материали - Оператори](https://docs.google.com/document/d/1wCBCAe7c_ccEQreb8yqbKIi7FGm9_SXReAi3lI8hcBk/edit?usp=sharing)
+[Операции в C/C++](https://www.geeksforgeeks.org/operators-c-c/)<br>
+[Стандартен вход и изход в C++](https://www.tutorialspoint.com/cplusplus/cpp_basic_input_output.htm)<br>
+[Побитови операции](https://docs.google.com/document/d/1dccZzNjO0JxycvtYQl5bsLhoq63K0ZFovvM51wRx5Tw/edit)
+
