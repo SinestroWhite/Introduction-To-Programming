@@ -12,9 +12,9 @@
 
 Задачи
 ------
-[Тип char](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Char%20type.md)<br>
-[Оператори](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Basic%20Operators.md)<br>
-[Побитови операции](https://github.com/SinestroWhite/Introduction-To-Programming/blob/master/Tasks/Bitwise%20operators.md)
+[Тип char](../tasks/char_type.md)<br>
+[Оператори](../tasks/basic_operators.md)<br>
+[Побитови операции](../tasks/bitwise_operators.md)
 
 Бонус
 -----
