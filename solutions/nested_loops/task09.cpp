@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 int main() {
 	int n,m;
@@ -72,7 +72,6 @@ Alternative solution:
 using namespace std;
 
 int main() {
-
     int n;
     bool m;
     cin >> n >> m;
@@ -80,7 +79,7 @@ int main() {
     int base = 2*n - 1;
 
     for (int i = 1; i <= base; ++i) {
-        cout << "+";
+        cout << '+';
     }
     cout << endl;
 
@@ -90,15 +89,15 @@ int main() {
             int numberOfPluses = (base - numberOfSharps)/2;
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
             for (int j = 1; j <= numberOfSharps; ++j) {
-                cout << "#";
+                cout << '#';
             }
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
             cout << endl;
@@ -108,13 +107,13 @@ int main() {
             int numberOfPluses = (base - 1)/2;
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
-            cout << "#";
+            cout << '#';
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
             cout << endl;
@@ -124,13 +123,13 @@ int main() {
             int numberOfPluses = (base - 1)/2;
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
-            cout << "#";
+            cout << '#';
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
             cout << endl;
@@ -141,15 +140,15 @@ int main() {
             int numberOfPluses = (base - numberOfSharps) / 2;
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
 
             for (int j = 1; j <= numberOfSharps; ++j) {
-                cout << "#";
+                cout << '#';
             }
 
             for (int j = 1; j <= numberOfPluses; ++j) {
-                cout << "+";
+                cout << '+';
             }
             cout << endl;
         }
@@ -157,7 +156,7 @@ int main() {
     }
 
     for (int i = 1; i <= base; ++i) {
-        cout << "+";
+        cout << '+';
     }
 
     return 0;

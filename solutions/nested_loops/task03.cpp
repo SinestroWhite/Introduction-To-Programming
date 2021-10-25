@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-
     int n = 4, m = 10;
+
     cout << "| X |  ";
     for (int i = n; i < m; ++i) {
         cout << i << " |  ";
