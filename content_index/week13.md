@@ -1,5 +1,8 @@
 ### Седмица 13
+=================================
 
+Теория
+------
 [git init](https://docs.google.com/file/d/1VPI8zGAx1KGKc64E-2jbVy7zu2kUngEk/edit)
 
 [git commit](https://docs.google.com/file/d/1IV4dUoWC1v6dPjuO281ixOsufrB7FNvR/edit?rtpof=true&sd=true)
@@ -12,12 +15,16 @@
 
 [GitHub](https://drive.google.com/file/d/1bjjTl6ewUhdx5a8aYOrl0-F2cPqGLnot/view?usp=sharing)
 
----
+Викторини
+---------
+TODO
 
-[Задачи - Git](../tasks/git.md)
+Задачи
+------
+[Git](../tasks/git.md)
 
----
-
+Бонус
+-----
 [Python](https://drive.google.com/file/d/1xeqEPkfO3gZlwrMXZdUGbEPjMvsOA7zT/view?usp=sharing)
 
 [Викторина - python](https://forms.gle/NfmVw87xL7hC6jMW7)
