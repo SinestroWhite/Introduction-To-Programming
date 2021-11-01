@@ -11,11 +11,11 @@
 
 Задачи
 ------
-[Cтруктури](../tasks/structs_and_classes.md)
+[Cтруктури](../tasks/structs.md)
 
 Решения
 -------
-[Cтруктури](../solutions/structs_and_classes/)
+[Cтруктури](../solutions/structs/)
 
 Бонус
 -----
