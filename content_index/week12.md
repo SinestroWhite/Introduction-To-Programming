@@ -13,6 +13,10 @@
 ------
 [Cтруктури](../tasks/structs_and_classes.md)
 
+Решения
+-------
+[Cтруктури](../solutions/structs_and_classes/)
+
 Бонус
 -----
 [Cруктури](https://docs.google.com/document/d/1Lf-QFbrbl8C0J9FRAe2MI6BLKaCygI3XQNmToTVOITs/edit?usp=sharing)
