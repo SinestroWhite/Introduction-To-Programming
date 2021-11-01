@@ -21,7 +21,13 @@
 
 [Цикли](../tasks/loops.md)
 
-[Решения - булеви изрази](../solutions/boolean_expressions_answers.md)
+Решения
+-------
+[Булеви изрази](../solutions/boolean_expressions_answers.md)
+
+[Условни оператори](../solutions/conditional_operators/)
+
+[Цикли](../solutions/loops/)
 
 Бонус
 -----
