@@ -13,6 +13,10 @@
 ------
 [Pекурсия](../tasks/recursion.md)
 
+Решения
+-------
+[Pекурсия](../solutions/recursion/)
+
 Бонус
 -----
 [Pекурсия](https://docs.google.com/document/d/1JR26A43wsQ9TmDd2Hj2o05Jg2uH7FLCr7YuWln6TaOc/edit?usp=sharing)
