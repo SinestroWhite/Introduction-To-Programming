@@ -19,6 +19,10 @@
 
 [Bектор](../tasks/vector.md)
 
+Решения
+-------
+[Mасиви](../solutions/arrays/)
+
 Бонус
 -----
 [Mасиви](https://docs.google.com/document/d/14qfVjKo70MSO9CeGc1T69MNbUimU935rECyc68bTFT8/edit?usp=sharing)
