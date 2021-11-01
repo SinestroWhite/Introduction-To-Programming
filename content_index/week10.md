@@ -9,8 +9,13 @@
 
 Викторини
 ---------
-[Викторина - референции и пойнтъри](https://forms.gle/x6QtkLNYxb68xYFU7)
+[Референции и пойнтъри](https://forms.gle/x6QtkLNYxb68xYFU7)
 
 Задачи
 ------
-[Задачи - пойнтъри и референции](../tasks/pointers_and_references.md)
+[Пойнтъри и референции](../tasks/pointers_and_references.md)
+
+Решения
+-------
+[Пойнтъри и референции](../solutions/pointers_and_references/)
+
