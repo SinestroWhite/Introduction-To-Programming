@@ -17,9 +17,13 @@
 
 Задачи
 ------
-[std::string](../tasks/string.md)
+[std::string](../tasks/strings.md)
 
 [Tекстови файлове](../tasks/files.md)
+
+Решения
+-------
+[std::string](../solutions/strings/)
 
 Бонус
 -----
