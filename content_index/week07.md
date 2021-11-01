@@ -13,6 +13,10 @@
 ------
 [Многомерни масиви](../tasks/multidimentional_arrays.md)
 
+Решения
+-------
+[Многомерни масиви](../solutions/multidimentional_arrays/)
+
 Бонус
 -----
 [Многомерни масиви](https://docs.google.com/document/d/1RuqRRsb_vHvNLXEGjMIVfbXvCvq6d9lubWjWsHflqlI/edit?usp=sharing)
