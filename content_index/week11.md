@@ -1,6 +1,10 @@
-### Седмица 11
+Седмица 11
+=================================
 
+Теория
+------
 [Динамична памет](https://drive.google.com/file/d/1eGU0bzZOcPqcAOYkTi_AOFgTO3jZrTyS/view?usp=sharing)
 
----
-[Задачи - пойнтъри и референции](../tasks/dynamic_memory.md)
+Задачи
+------
+[Динамична памет](../tasks/dynamic_memory.md)
