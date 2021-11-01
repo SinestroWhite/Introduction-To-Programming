@@ -15,6 +15,10 @@
 
 [Побитови операции](../tasks/bitwise_operators.md)
 
+Решения
+-------
+[Oператори](../solutions/basic_operators/)
+
 Бонус
 -----
 [Бонус материали - Оператори](https://docs.google.com/document/d/1wCBCAe7c_ccEQreb8yqbKIi7FGm9_SXReAi3lI8hcBk/edit?usp=sharing)
