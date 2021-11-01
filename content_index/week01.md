@@ -21,12 +21,14 @@
 
 Задачи
 ------
-
 [Tип char](../tasks/char_type.md)
+
+Решения
+-------
+[Tип char](../solutions/char_type/)
 
 Бонус
 -----
-
 [Езици за програмиране](https://drive.google.com/file/d/1-cHs9o5upXup-wSb4vBV82rc6fa4LXSS/view?usp=sharing)
 
 [Типове данни](https://docs.google.com/document/d/14ZF1BCSihAubZdBHqb1-iJ8fS8NjtHnADgSxAWF2Nfc/edit?usp=sharing)
