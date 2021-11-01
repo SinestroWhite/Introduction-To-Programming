@@ -11,11 +11,11 @@
 
 Задачи
 ------
-[Многомерни масиви](../tasks/multidimentional_arrays.md)
+[Многомерни масиви](../tasks/multidimensional_arrays.md)
 
 Решения
 -------
-[Многомерни масиви](../solutions/multidimentional_arrays/)
+[Многомерни масиви](../solutions/multidimensional_arrays/)
 
 Бонус
 -----
