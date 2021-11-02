@@ -1,6 +1,6 @@
 #include <iostream>
 
-bool isUneven(const int num) {
+bool isOdd(const int num) {
 	return num % 2;
 }
 
