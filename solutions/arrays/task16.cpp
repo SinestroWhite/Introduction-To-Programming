@@ -3,15 +3,10 @@
 #define N 20
 int main() {
 	bool arr[N] = {};
-	// vzimame % 2
-	// delim na 2 dokato ne stane 0
-	// izvejdame naobratno
 
 	int numb;
 	std::cin >> numb;
 	int len = 0;
-	//5
-	//101
 	do {
 		arr[len++] = numb % 2;
 		numb /= 2;
