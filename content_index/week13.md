@@ -21,7 +21,7 @@ TODO
 
 Задачи
 ------
-[Git](../tasks/git.md)
+[Git](https://github.com/Mapmo/Introduction-To-Programming-Git)
 
 Бонус
 -----
