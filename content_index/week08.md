@@ -25,6 +25,8 @@
 -------
 [std::string](../solutions/strings/)
 
+[Текстови файлове](../solutions/files/)
+
 Бонус
 -----
 [std::string](https://docs.google.com/document/d/1EBBYMcotYCuzotbg5WsG1KkiLWwMHemzLz3Vjc62Mwo/edit?usp=sharing)
