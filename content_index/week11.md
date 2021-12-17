@@ -8,3 +8,8 @@
 Задачи
 ------
 [Динамична памет](../tasks/dynamic_memory.md)
+
+Решения
+-------
+[Динамична памет](../solutions/dynamic_memory/)
+
