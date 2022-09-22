@@ -7,6 +7,8 @@
 
 [Оператори, връщащи стойност](https://drive.google.com/file/d/1HT_KqTEmDCikOUsHJmwB5PbNPUw3VwsO/view?usp=sharing)
 
+[Вградени функции](https://docs.google.com/file/d/1fgI57GL0hJTF3Qd4hG2JwN3_ThE0CWLC/edit?usp=sharing&ouid=115687390792091108365&rtpof=true&sd=true)
+
 Викторини
 ---------
 [Променливи](https://docs.google.com/forms/d/e/1FAIpQLSc1-teg7ZPZt1rW_8SjY62H1SUjZ3gLPl2RwylH1l-cXXHyIQ/viewform?usp=sf_link)
@@ -32,3 +34,5 @@
 [Типове данни](../bonus/variables.md)
 
 [Оператори](../bonus/operators.md)
+
+[Вградени функции](../bonus/built-in.md)
