@@ -27,5 +27,5 @@
 
 Бонус
 -----
-[Езици за програмиране](https://drive.google.com/file/d/1-cHs9o5upXup-wSb4vBV82rc6fa4LXSS/view?usp=sharing)
-
+[Въведение](../bonus/intro.md)
+[C++](../bonus/cpp.md)

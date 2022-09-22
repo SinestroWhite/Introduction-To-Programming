@@ -31,6 +31,6 @@
 
 Бонус
 -----
-[Условни оператори](https://docs.google.com/document/d/14zsdsmOkAM_O3qUEIuE8nSnKHTukFN_qRZZeitaV6Kk/edit?usp=sharing)
+[Условни оператори](../bonus/conditionals.md)
 
-[Цикли](https://docs.google.com/document/d/1fCkEBkQn3JmezC3rpHZpnKvtF_ZzzqgoHbYKxHkB2Rs/edit?usp=sharing)
+[Цикли](../bonus/loops.md)

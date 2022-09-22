@@ -19,4 +19,4 @@
 
 Бонус
 -----
-[Фунцкии](https://docs.google.com/document/d/1angit81uRZGOMjiZnbse9Khdkdu6bJYC6SL1dazo-nM/edit?usp=sharing)
+[Фунцкии](../bonus/functions.md)

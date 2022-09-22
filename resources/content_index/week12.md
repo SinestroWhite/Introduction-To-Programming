@@ -17,6 +17,3 @@
 -------
 [Cтруктури](../solutions/structs/)
 
-Бонус
------
-[Cруктури](https://docs.google.com/document/d/1Lf-QFbrbl8C0J9FRAe2MI6BLKaCygI3XQNmToTVOITs/edit?usp=sharing)

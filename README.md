@@ -28,6 +28,6 @@
 
 [Седмица 15 - Преговор](resources/content_index/week15.md)
 
-[Архив](tasks/archives)
-
 [Допълнителни материали](resources/content_index/bonus.md)
+
+[Архив](tasks/archives)

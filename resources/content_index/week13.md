@@ -23,8 +23,3 @@ TODO
 ------
 [Git](https://github.com/Mapmo/Introduction-To-Programming-Git)
 
-Бонус
------
-[Python](https://drive.google.com/file/d/1xeqEPkfO3gZlwrMXZdUGbEPjMvsOA7zT/view?usp=sharing)
-
-[Викторина - python](https://forms.gle/NfmVw87xL7hC6jMW7)

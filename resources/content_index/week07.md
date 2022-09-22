@@ -19,4 +19,4 @@
 
 Бонус
 -----
-[Многомерни масиви](https://docs.google.com/document/d/1RuqRRsb_vHvNLXEGjMIVfbXvCvq6d9lubWjWsHflqlI/edit?usp=sharing)
+[Многомерни масиви](../bonus/multidimensional_arrays.md)

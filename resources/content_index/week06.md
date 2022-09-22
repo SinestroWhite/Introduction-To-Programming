@@ -25,6 +25,4 @@
 
 Бонус
 -----
-[Mасиви](https://docs.google.com/document/d/14qfVjKo70MSO9CeGc1T69MNbUimU935rECyc68bTFT8/edit?usp=sharing)
-
-[std::vector](https://docs.google.com/document/d/165q3xfqSA6TO6Ec_m6rrUKRwSjtsXDPqVRKpU3DaxlQ/edit?usp=sharing)
+[Mасиви](../bonus/arrays.md)
