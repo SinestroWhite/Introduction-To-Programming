@@ -29,6 +29,4 @@
 
 Бонус
 -----
-[std::string](https://docs.google.com/document/d/1EBBYMcotYCuzotbg5WsG1KkiLWwMHemzLz3Vjc62Mwo/edit?usp=sharing)
-
-[Tекстови файлове](https://docs.google.com/document/d/1dCgQHtpUdGFyDETHVblX7UiWPBaVEsQb36K0nTtXAa8/edit?usp=sharing)
+[Tекстови файлове](../bonus/text_files.md)

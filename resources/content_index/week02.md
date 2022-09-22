@@ -29,6 +29,6 @@
 
 Бонус
 -----
-[Типове данни](https://docs.google.com/document/d/14ZF1BCSihAubZdBHqb1-iJ8fS8NjtHnADgSxAWF2Nfc/edit?usp=sharing)
+[Типове данни](../bonus/variables.md)
 
-[Бонус материали - Оператори](https://docs.google.com/document/d/1wCBCAe7c_ccEQreb8yqbKIi7FGm9_SXReAi3lI8hcBk/edit?usp=sharing)
+[Оператори](../bonus/operators.md)
