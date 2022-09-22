@@ -19,6 +19,8 @@
 ------
 [Tип char](../tasks/char_type.md)
 
+[Tип double](../tasks/double_type.md)
+
 [Oператори](../tasks/basic_operators.md)
 
 [Побитови операции](../tasks/bitwise_operators.md)
@@ -26,6 +28,8 @@
 Решения
 -------
 [Tип char](../solutions/char_type/)
+
+[Tип double](../solutions/double_type/)
 
 [Oператори](../solutions/basic_operators/)
 
