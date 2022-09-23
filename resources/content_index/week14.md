@@ -16,3 +16,7 @@
 Решения
 -------
 [Pекурсия](../solutions/recursion/)
+
+Бонус
+-------
+[Pекурсия](../bonus/recursion.md)
