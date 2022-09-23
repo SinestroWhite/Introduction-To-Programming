@@ -19,3 +19,6 @@
 -------
 [Пойнтъри и референции](../solutions/pointers_and_references/)
 
+Бонус
+-----
+[Пойнтъри и референции](../bonus/pointers_and_references.md)
