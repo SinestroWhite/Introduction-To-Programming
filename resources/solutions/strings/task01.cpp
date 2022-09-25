@@ -28,7 +28,8 @@ int main() {
         }
     }
 
-    std::cout << (isPalindrome ? "Is a palindrome" : "Isn't a palindrome") << std::endl;
+    std::cout << (isPalindrome ? "Is a palindrome" : "Isn't a palindrome")
+              << std::endl;
 
     return 0;
 }

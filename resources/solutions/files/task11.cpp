@@ -9,14 +9,13 @@ int main() {
 
     std::ifstream file(filePath);
 
-    if(!file.is_open()) {
+    if (!file.is_open()) {
         std::cout << "ERROR OPENING FILE\n";
         return 1;
     }
 
     bool areSet = false;
-    size_t smallestRowIndex, smallestRowSize,
-           biggestRowIndex, biggestRowSize;
+    size_t smallestRowIndex, smallestRowSize, biggestRowIndex, biggestRowSize;
 
     std::string buffer;
 
@@ -41,8 +40,10 @@ int main() {
     }
 
     if (areSet) {
-        std::cout << "Smallest row index/size: " << smallestRowIndex << '/' << smallestRowSize << '\n';
-        std::cout << "Biggest row index/size: " << biggestRowIndex << '/' << biggestRowSize << '\n';
+        std::cout << "Smallest row index/size: " << smallestRowIndex << '/'
+                  << smallestRowSize << '\n';
+        std::cout << "Biggest row index/size: " << biggestRowIndex << '/'
+                  << biggestRowSize << '\n';
     }
 
     file.close();

@@ -10,7 +10,7 @@ int main() {
     //                       'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r',
     //                       's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
 
-    bool isSeen[26] {};
+    bool isSeen[26]{};
 
     for (int i = 0; i < input.size(); ++i) {
         if (input[i] >= 'a' && input[i] <= 'z') {

@@ -1,8 +1,6 @@
 #include <iostream>
 
-int magic(float &a) {
-    return * (int *) &a;
-}
+int magic(float &a) { return *(int *)&a; }
 
 int main() {
     float a;

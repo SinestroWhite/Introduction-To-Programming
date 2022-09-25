@@ -3,12 +3,12 @@
 
 using namespace std;
 
-bool isStringInside(const string& str, const string& toFind) {
+bool isStringInside(const string &str, const string &toFind) {
 
     for (int i = 0; i < str.size(); ++i) {
         if (str[i] == toFind[0]) {
             int j = 0;
-            while(i < str.size() && j < toFind.size() && str[i] == toFind[j]){
+            while (i < str.size() && j < toFind.size() && str[i] == toFind[j]) {
                 ++j;
                 ++i;
             }
@@ -21,7 +21,7 @@ bool isStringInside(const string& str, const string& toFind) {
     return false;
 }
 
-bool isStringInsideRecursive(const string& str, const string& toFind, int i) {
+bool isStringInsideRecursive(const string &str, const string &toFind, int i) {
 
     if (str.empty() && !toFind.empty()) {
         return false;
@@ -33,7 +33,7 @@ bool isStringInsideRecursive(const string& str, const string& toFind, int i) {
 
     if (str[i] == toFind[0]) {
         int j = 0;
-        while(i < str.size() && j < toFind.size() && str[i] == toFind[j]){
+        while (i < str.size() && j < toFind.size() && str[i] == toFind[j]) {
             ++j;
             ++i;
         }
@@ -44,7 +44,6 @@ bool isStringInsideRecursive(const string& str, const string& toFind, int i) {
 
     ++i;
     return isStringInsideRecursive(str, toFind, i);
-
 }
 
 int main() {

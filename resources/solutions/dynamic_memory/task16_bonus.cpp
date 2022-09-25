@@ -40,12 +40,14 @@ int main() {
     if (min_size % 2) {
         if (min_size == rows) {
             // Problematic row
-            for (size_t col = min_size / 2; col <= cols - min_size / 2 - 1; ++col) {
+            for (size_t col = min_size / 2; col <= cols - min_size / 2 - 1;
+                 ++col) {
                 std::cout << mat[min_size / 2][col] << ' ';
             }
         } else {
             // Problematic col
-            for (size_t row = min_size / 2; row <= rows - min_size / 2 - 1; ++row) {
+            for (size_t row = min_size / 2; row <= rows - min_size / 2 - 1;
+                 ++row) {
                 std::cout << mat[row][min_size / 2] << ' ';
             }
         }

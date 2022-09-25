@@ -17,7 +17,6 @@ bool isDifferent(int arr[], int size) {
 
     --size;
     return isDifferent(arr, size);
-
 }
 
 int main() {

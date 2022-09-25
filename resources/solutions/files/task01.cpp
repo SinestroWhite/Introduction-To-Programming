@@ -5,9 +5,9 @@ int squaredDigitsSum(int n) {
     int r = 0, sum = 0;
 
     while (n > 0) {
-        r   = n % 10;
+        r = n % 10;
         sum = sum + (r * r);
-        n   = n / 10;
+        n = n / 10;
     }
 
     return sum;
@@ -20,7 +20,7 @@ bool isHappy(int num) {
         new_n = squaredDigitsSum(new_n);
     }
 
-    if (new_n == 1){
+    if (new_n == 1) {
         return true;
     }
 
@@ -31,8 +31,7 @@ bool isPrime(int num) {
     // 0 and 1 are not prime numbers
     if (num == 0 || num == 1) {
         return false;
-    }
-    else {
+    } else {
         for (int i = 2; i <= num / 2; ++i) {
             if (num % i == 0) {
                 return false;
