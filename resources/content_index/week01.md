@@ -29,4 +29,6 @@
 -----
 [Въведение](../bonus/intro.md)
 
+[Visual Studio code](../bonus/vs_code.md)
+
 [C++](../bonus/cpp.md)

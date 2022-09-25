@@ -30,4 +30,4 @@
 
 [Допълнителни материали](resources/content_index/bonus.md)
 
-[Архив](tasks/archives)
+[Архив](resources/tasks/archives)
