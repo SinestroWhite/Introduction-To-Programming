@@ -12,17 +12,17 @@ int len(int a) {
 
 bool compare(int a, int b) {
     while (len(a) < len(b)) {
-            a *= 10;
+        a *= 10;
     }
 
     while (len(b) < len(a)) {
-            b *= 10;
+        b *= 10;
     }
 
     return a > b;
 }
 
-void sortLex(const int n, int * a) {
+void sortLex(const int n, int *a) {
     for (int i = 0; i < n - 1; i++) {
         for (int j = i + 1; j < n; j++) {
             if (compare(a[i], a[j])) {
@@ -40,7 +40,7 @@ int main() {
     int arr[SIZE] = {1, 10, 20, 103, 5};
     sortLex(SIZE, arr);
     for (int i = 0; i < SIZE; i++) {
-            std::cout << arr[i] << ' ';
+        std::cout << arr[i] << ' ';
     }
     std::cout << std::endl;
     return 0;

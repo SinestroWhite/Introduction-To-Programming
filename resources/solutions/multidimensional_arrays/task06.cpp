@@ -22,7 +22,6 @@ int main() {
         }
     }
 
-
     for (int i = 0; i < K; ++i) {
         if (arr[i][i] >= 0) {
             cout << arr[i][i] << " ";

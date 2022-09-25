@@ -23,7 +23,6 @@ int main() {
         }
     }
 
-
     for (int i = 0; i < N; ++i) {
         for (int j = 0; j < M; ++j) {
             if (arr[i][j] == X) {
@@ -36,6 +35,3 @@ int main() {
     cout << "NO\n";
     return 0;
 }
-
-
-

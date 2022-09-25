@@ -2,7 +2,7 @@
 
 using namespace std;
 
-bool isPalindrome(const string& str) {
+bool isPalindrome(const string &str) {
 
     if (str.size() <= 1) {
         return true;
@@ -18,7 +18,7 @@ bool isPalindrome(const string& str) {
     return isPalindrome(str);
 }
 
-bool isPalindrome(char str[], const int& size, int i) {
+bool isPalindrome(char str[], const int &size, int i) {
 
     if (size <= 1) {
         return true;
@@ -30,12 +30,6 @@ bool isPalindrome(char str[], const int& size, int i) {
 
     ++i;
     return isPalindrome(str, size, i);
-
 }
 
-int main() {
-
-
-
-    return 0;
-}
+int main() { return 0; }

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void insertInVector(vector<int>& arr, const int toInsert, int i) {
+void insertInVector(vector<int> &arr, const int toInsert, int i) {
 
     if (arr.empty()) {
         arr.push_back(toInsert);
@@ -19,7 +19,6 @@ void insertInVector(vector<int>& arr, const int toInsert, int i) {
     }
 
     insertInVector(arr, toInsert, ++i);
-
 }
 
 int main() {
