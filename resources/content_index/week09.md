@@ -5,6 +5,6 @@
 
 Задачи
 ------
-[Подготовка за контролно 3](../tasks/pre_exam_test.h)
+[Подготовка за контролно 3](../tasks/pre_exam_test.md)
 
-[Решения на задачите](../solutions/pre_exam_test.h)
+[Решения на задачите](../solutions/pre_exam_test.cpp)
