@@ -23,6 +23,8 @@
 
 [Oператори](../tasks/basic_operators.md)
 
+[Вградени функции](../tasks/built-in.md)
+
 [Побитови операции](../tasks/bitwise_operators.md)
 
 Решения
@@ -32,6 +34,8 @@
 [Tип double](../solutions/double_type/)
 
 [Oператори](../solutions/basic_operators/)
+
+[Вградени функции](../solutions/built-in/)
 
 Бонус
 -----
