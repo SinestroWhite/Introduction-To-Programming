@@ -1,5 +1,3 @@
-#include "pre_exam_test.h"
-
 #include <cmath>
 #include <iostream>
 
