@@ -4,7 +4,6 @@
 using namespace std;
 
 bool isStringInside(const string &str, const string &toFind) {
-
     for (int i = 0; i < str.size(); ++i) {
         if (str[i] == toFind[0]) {
             int j = 0;
@@ -22,7 +21,6 @@ bool isStringInside(const string &str, const string &toFind) {
 }
 
 bool isStringInsideRecursive(const string &str, const string &toFind, int i) {
-
     if (str.empty() && !toFind.empty()) {
         return false;
     }
@@ -47,9 +45,7 @@ bool isStringInsideRecursive(const string &str, const string &toFind, int i) {
 }
 
 int main() {
-
     string str = "dfghjkl;lkjhgfdfghjkl";
-
     string toFind = "fgh9";
 
     cout << isStringInsideRecursive(str, toFind, 0) << endl;
