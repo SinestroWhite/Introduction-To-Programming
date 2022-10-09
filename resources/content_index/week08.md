@@ -5,7 +5,6 @@
 ------
 [Символни низове](https://drive.google.com/file/d/1D2rJlcVp4ikCB5p415od7SRdT9X-5KmM/view?usp=sharing)
 
-[std::string](https://drive.google.com/file/d/1EcTh7k-ldd3d9kXWoitstyYgC-ydGp5A/view?usp=sharing)
 
 [Текстови файлове](https://drive.google.com/file/d/1Y2Npnt4XimyM_niTO3HVp11jndMDQJps/view?usp=sharing)
 
@@ -17,13 +16,13 @@
 
 Задачи
 ------
-[std::string](../tasks/strings.md)
+[Символни низове](../tasks/strings.md)
 
 [Tекстови файлове](../tasks/files.md)
 
 Решения
 -------
-[std::string](../solutions/strings/)
+[Символни низове](../solutions/strings/)
 
 [Текстови файлове](../solutions/files/)
 
