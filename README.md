@@ -1,8 +1,8 @@
 [Седмица 1 - Въведение](resources/content_index/week01.md)
 
-[Седмица 2 - Променливи. Вградени функции. Оператори връщащи стойности](resources/content_index/week02.md)
+[Седмица 2 - Променливи. Оператори връщащи стойности](resources/content_index/week02.md)
 
-[Седмица 3 - Условни оператори. Цикли](resources/content_index/week03.md)
+[Седмица 3 - Вградени функции. Условни оператори. Цикли](resources/content_index/week03.md)
 
 [Седмица 4 - Вложени цикли](resources/content_index/week04.md)
 
