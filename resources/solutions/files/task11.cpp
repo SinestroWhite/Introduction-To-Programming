@@ -1,9 +1,11 @@
+#include <cstring>
 #include <fstream>
 #include <iostream>
-#include <string>
+
+const int MAX_BUFFER_SIZE = 1024;
 
 int main() {
-    std::string filePath;
+    char filePath[MAX_BUFFER_SIZE];
 
     std::cin >> filePath;
 
@@ -17,25 +19,27 @@ int main() {
     bool areSet = false;
     size_t smallestRowIndex, smallestRowSize, biggestRowIndex, biggestRowSize;
 
-    std::string buffer;
+    char buffer[MAX_BUFFER_SIZE];
 
-    for (int i = 1; std::getline(file, buffer); ++i) {
+    for (int i = 1; file.getline(buffer, MAX_BUFFER_SIZE); ++i) {
+        size_t size = std::strlen(buffer);
+
         if (!areSet) {
             smallestRowIndex = i;
-            smallestRowSize = buffer.size();
+            smallestRowSize = size;
             biggestRowIndex = i;
-            biggestRowSize = buffer.size();
+            biggestRowSize = size;
             areSet = true;
         }
 
-        if (buffer.size() < smallestRowSize) {
+        if (size < smallestRowSize) {
             smallestRowIndex = i;
-            smallestRowSize = buffer.size();
+            smallestRowSize = size;
         }
 
-        if (buffer.size() > biggestRowSize) {
+        if (size > biggestRowSize) {
             biggestRowIndex = i;
-            biggestRowSize = buffer.size();
+            biggestRowSize = size;
         }
     }
 

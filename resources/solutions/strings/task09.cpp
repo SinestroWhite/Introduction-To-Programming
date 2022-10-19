@@ -1,22 +1,28 @@
+#include <cstring>
 #include <iostream>
-#include <string>
 //Напишете програма, която въвежда знаков низ S и като резултат отпечатва онези
 //малки латински букви, които не се съдържат в низа.
 
 #define all 26
 
+const int MAX_BUFFER_SIZE = 100;
+
 int main() {
-    std::string sample;
-    std::cin >> sample;
+    char sample[MAX_BUFFER_SIZE];
+    std::cin.getline(sample, MAX_BUFFER_SIZE);
 
     bool letter[all] = {};
 
-    for (int i = 0; i < sample.size(); i++) {
-        letter[sample[i] - 'a'] = 1;
+    int size = std::strlen(sample);
+
+    for (int i = 0; i < size; i++) {
+        if (sample[i] >= 'a' && sample[i] <= 'z') {
+            letter[sample[i] - 'a'] = true;
+        }
     }
 
     for (int i = 0; i < all; i++) {
-        if (letter[i] == 0) {
+        if (!letter[i]) {
             std::cout << char(i + 'a') << '\n';
         }
     }
