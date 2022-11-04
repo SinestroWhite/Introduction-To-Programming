@@ -117,6 +117,7 @@
 	4
 	```
 	---
+	**[Решение](../solutions/functions/task13.cpp)**
 
 <br>
 
@@ -158,6 +159,7 @@
 	3 8 6
 	```
 	---
+	**[Решение](../solutions/functions/task15.cpp)**
 
 <br>
 
