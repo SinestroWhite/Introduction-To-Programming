@@ -13,14 +13,11 @@ void swap_rows(int arr[][col_size], int N, int M) {
 
 bool compare(int arr[][col_size], int N, int M) {
     for (int i = 0; i < col_size; i++) {
-        if (arr[N][i] < arr[M][i]) {
-            return true;
-        }
-        if (arr[N][i] > arr[M][i]) {
-            return false;
+        if (arr[N][i] != arr[M][i]) {
+            return arr[N][i] < arr[M][i];
         }
     }
-    return false;
+    return true;
 }
 
 void sort_array(int arr[][col_size]) {
