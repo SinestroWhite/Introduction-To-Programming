@@ -17,6 +17,10 @@
 -------
 [Функции](../solutions/functions/)
 
+Практически задачи
+---------
+[Блекджек](../tasks/bonus/blackjack.md)
+
 Бонус
 -----
 [Фунцкии](../bonus/functions.md)
